@@ -1,4 +1,4 @@
-# AWS Protected Data Architecture & Layered Defence :
+# AWS Protected Data Architecture & Layered Defence:
 ![Diagramme vierge (1) (2)](https://github.com/user-attachments/assets/ff3a7c39-6c4f-4c66-a995-aff7e417bf98)
 
 
