@@ -1,6 +1,7 @@
 # AWS-Layered-Defense
+![Diagramme vierge (1) (2)](https://github.com/user-attachments/assets/ff3a7c39-6c4f-4c66-a995-aff7e417bf98)
 
-![Diagramme vierge (1).png](attachment:9e25e1bb-732d-4a00-80fb-59e49f9694c3:Diagramme_vierge_(1).png)
+
 
 This mini-project aims to design and implement a highly available, scalable, and secure multi-tier web application architecture on Amazon Web Services (AWS). The goal is to demonstrate fundamental cloud computing principles, including network isolation, layered security, and the use of managed services for reliability and scalability.
 
