@@ -3,7 +3,7 @@
 
 
 
-This mini-project aims to design and implement a highly available, scalable, and secure multi-tier web application architecture on Amazon Web Services (AWS). The goal is to demonstrate fundamental cloud computing principles, including network isolation, layered security, and the use of managed services for reliability and scalability.
+This project aims to design and implement a highly available, scalable, and secure multi-tier web application architecture on Amazon Web Services (AWS). The goal is to demonstrate fundamental cloud computing principles, including network isolation, layered security, and the use of managed services for reliability and scalability.
 
 The architecture is built within a Virtual Private Cloud (VPC), a logically isolated network in AWS, using the CIDR block 10.16.0.0/16. To ensure high availability and disaster recovery, the architecture is deployed across two Availability Zones (AZ A and AZ B). Within each Availability Zone, the network is segmented into distinct subnets, each serving a specific purpose and tier of the application:
 
